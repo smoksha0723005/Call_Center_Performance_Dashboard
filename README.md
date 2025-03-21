@@ -24,14 +24,17 @@ The dashboard aggregates data from various sources within the call center's oper
 3. A breakdown of calls by manager to assess managerial impact on performance.
 4. Visualization of calls versus productivity to find optimal performance benchmarks.
 
-## 4. Insights:
+## 4. Dashboard Image:
+![image](https://github.com/user-attachments/assets/bc133467-d3c2-40fc-b057-8911b83480fb)
+
+## 5. Insights:
 1. The call volume shows a peak in November, suggesting a potential seasonal influence on call patterns.
 2. Productivity is predominantly high at 82.7%, indicating effective call handling.
 3. Shiva Reddy manages the highest number of calls, potentially highlighting effective team leadership or a higher team headcount.
 4. The pie chart indicates a significantly higher number of outbound calls (68.52%), which could suggest a focus area for training or optimization.
 5. Agents handling tech support from the USA show varying performance ratings, with a notable low rating for Kanoma Chetri, pinpointing possible areas for training.
 
-## 5. Conclusion:
+## 6. Conclusion:
 This dashboard effectively highlights key performance metrics and operational insights that are critical for managing a call center. It identifies strengths in productivity and areas needing attention, such as specific managerial strategies or agent training programs. Continual monitoring and analysis using this dashboard can drive improved operational efficiencies and enhanced agent performance.
 
 
